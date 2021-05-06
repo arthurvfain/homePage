@@ -5,9 +5,11 @@ body
 h1
 {
     color: whitesmoke;
-    
+    text-align: center;
+
 }
 h2
 {
     color: gray;
+    text-align: center;
 }
